@@ -1,3 +1,11 @@
 #maintitle {
     background-color:chocolate
 }
+
+.center {
+    text-align:center
+}
+
+.titleone, .titletwo, .titlethree {
+    font-family:fantasy
+}
