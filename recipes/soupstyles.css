@@ -6,6 +6,10 @@
     text-align:center
 }
 
+.center {
+    background-color:cornflowerblue
+}
+
 .titleone, .titletwo, .titlethree {
     font-family:fantasy
 }
