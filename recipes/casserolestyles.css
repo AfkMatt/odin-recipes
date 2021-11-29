@@ -1,0 +1,17 @@
+#maintitle {
+    background-color:indianred;
+}
+
+.center {
+    text-align:center;
+    background-color:rgb(100, 237, 225)
+}
+
+.titleone, .titletwo, .titlethree {
+    font-family:fantasy
+}
+
+.img {
+    height:auto;
+    width: 300px;
+}
